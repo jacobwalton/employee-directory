@@ -7,7 +7,7 @@
 
 An easy to use application which allows the user to keep track of employees and sort them.
 
-_Deployed app:_ //////
+_Deployed app:_ ////// https://gentle-badlands-81439.herokuapp.com/
 
 # Table of Contents:
 
