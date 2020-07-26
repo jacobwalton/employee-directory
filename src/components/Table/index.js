@@ -39,28 +39,28 @@ function listEmployees(props) {
             </tr>
           </thead>
           <tbody>
-            {arr.map((element, i) => {
+            {arr.map((employee, i) => {
               return (
                 <tr key={i}>
                   <td>
-                    <a href={"mailto:element.email"}>
+                    <a href={"mailto:employee.email"}>
                       <img
                         className="profPic"
-                        alt={element.name}
-                        src={element.picture.small}
+                        alt={employee.name}
+                        src={employee.picture.thumbnail}
                       ></img>
                     </a>
                   </td>
                   <td>
                     <strong>
-                      {element.name.first} {element.name.last}
+                      {employee.name.first} {employee.name.last}
                     </strong>
                   </td>
-                  <td>{element.phone}</td>
+                  <td>{employee.phone}</td>
                   <td>
-                    <a href={"mailto:element.email"}>{element.email}</a>
+                    <a href={"mailto:employee.email"}>{employee.email}</a>
                   </td>
-                  <td>{element.dob.date}</td>
+                  <td>{employee.dob.date}</td>
                 </tr>
               );
             })}
