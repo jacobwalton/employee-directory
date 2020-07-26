@@ -1,7 +1,7 @@
 # Employee Directory
 
-![Languages badge](https://img.shields.io/github/languages/count/jawalton6616/workout-tracker)
-![Last commit badge](https://img.shields.io/github/last-commit/jawalton6616/workout-tracker)
+![Languages badge](https://img.shields.io/github/languages/count/jawalton6616/employee-directory)
+![Last commit badge](https://img.shields.io/github/last-commit/jawalton6616/employee-directory)
 
 ## Description:
 
