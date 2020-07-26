@@ -7,7 +7,7 @@
 
 An easy to use application which allows the user to keep track of employees and sort them.
 
-_Deployed app:_ //////https://jacob-emp-dir.herokuapp.com/
+_Deployed app:_ https://jacob-emp-dir.herokuapp.com/
 # Table of Contents:
 
 - [Installation ](#installation)
