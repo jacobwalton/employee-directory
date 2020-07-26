@@ -1,0 +1,9 @@
+.header {
+  background-color: #d35b81;
+  color: white;
+  text-align: center;
+  border-bottom: 14px solid #e99e79;
+  position: relative;
+  top: -50px;
+  margin-bottom: -30px;
+}
