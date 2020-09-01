@@ -47,7 +47,7 @@ function listEmployees(props) {
                       <img
                         className="profPic"
                         alt={employee.name}
-                        src={employee.picture.thumbnail}
+                        src={JSON.stringify(employee.picture.medium)}
                       ></img>
                     </a>
                   </td>
@@ -60,7 +60,7 @@ function listEmployees(props) {
                   <td>
                     <a href={"mailto:employee.email"}>{employee.email}</a>
                   </td>
-                  <td>{employee.dob.date}</td>
+                  <td>{employee.dob.date.slice(0, 10)}</td>
                 </tr>
               );
             })}
