@@ -1,14 +1,13 @@
 # Employee Directory
 
-![Languages badge](https://img.shields.io/github/languages/count/jawalton6616/workout-tracker)
-![Last commit badge](https://img.shields.io/github/last-commit/jawalton6616/workout-tracker)
+![Languages badge](https://img.shields.io/github/languages/count/jawalton6616/employee-directory)
+![Last commit badge](https://img.shields.io/github/last-commit/jawalton6616/employee-directory)
 
 ## Description:
 
 An easy to use application which allows the user to keep track of employees and sort them.
 
-_Deployed app:_ //////
-
+_Deployed app:_ https://jacob-emp-dir.herokuapp.com/
 # Table of Contents:
 
 - [Installation ](#installation)
